@@ -1,6 +1,5 @@
 abstract class Person {  
 
-  
 void displayInfo();  
   
 }  
@@ -19,6 +18,7 @@ class Girl extends Person
     print("My name is Grecia");  
     }  
 }   
+
 void main() {  
   Boy b = new Boy();  
 Girl g = new Girl();    
