@@ -1,3 +1,9 @@
+//ENCAPSULATION
+//Encapsulation is bundling data (attributes) and the
+// methods (functions) that operate on the data into a single unit or class. 
+//It allows data to be protected from outside interference.
+//EXAMPLE
+// Keep everything inside your bag, hiding it from others
 class Employee {
   int? _id;
   String? _name;

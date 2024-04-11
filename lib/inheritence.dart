@@ -1,3 +1,7 @@
+//INHERITANCE
+//child class derives the properties of the parent class
+//EXAMPLE
+//A child class "Student" can inherit properties (like name, age) from a parent class "Person".
 class Person {
   // Properties
   String? name;
